@@ -1,0 +1,10 @@
+.Card {
+  padding: 30px 30px 30px 30px;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+
+/*# sourceMappingURL=Card.module.css.map */
